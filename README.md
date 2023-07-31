@@ -1,0 +1,6 @@
+- 👋 Hi, I’m @thando-developer-works!.
+- 👀 I’m interested in everything regarding javascript and web development!. 
+- 🌱 I’m currently learning mern stack!. 
+- 💞️ I’m looking to collaborate on web development!.
+- 📫 Reach me through my email [thando.mcube.joshua@outlook.com]
+- More to come...
